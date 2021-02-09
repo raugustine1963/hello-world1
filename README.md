@@ -1,2 +1,3 @@
 # hello-world1
-Learning github
+# Learning github
+print("hello, github")
